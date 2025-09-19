@@ -57,14 +57,14 @@ ml_pipeline/
 ### Input Screen
 The mobile app provides an intuitive interface for entering model features:
 
-![Model Input](<Simulator Screenshot - iPhone 14 Pro Max - 2025-09-19 at 17.03.45.png>)
+<img src="Simulator Screenshot - iPhone 14 Pro Max - 2025-09-19 at 17.03.45.png" alt="Model Input Screen" width="250">
 
 *Feature input screen with validation and Material Design components*
 
 ### Results Screen
 After submitting features, users receive clear prediction results:
 
-![Model Output](<Simulator Screenshot - iPhone 14 Pro Max - 2025-09-19 at 17.03.55.png>)
+<img src="Simulator Screenshot - iPhone 14 Pro Max - 2025-09-19 at 17.03.55.png" alt="Model Output Screen" width="250">
 
 *Prediction results display with input summary and formatted output*
 
